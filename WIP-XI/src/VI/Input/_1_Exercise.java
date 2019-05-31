@@ -16,8 +16,8 @@ public class _1_Exercise {
     public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
          
-         int x;
-         int y;
+         int x =เงินพ่อ;
+         int y =เงินแม่;
          
         System.out.print("Enter x : ");
 
@@ -27,6 +27,6 @@ public class _1_Exercise {
 
         y = sc.nextInt();
                
-        System.out.println("X+Y : " + (x+y));
+        System.out.println("x+y : " + (x+y));
     }
 }
